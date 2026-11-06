@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/FitMan/static/js/main.6bbcfb43.js",
+    "static/js/239.ad40150f.chunk.js": "/FitMan/static/js/239.ad40150f.chunk.js",
+    "static/js/977.6a7f6471.chunk.js": "/FitMan/static/js/977.6a7f6471.chunk.js",
+    "static/js/455.9eeb451c.chunk.js": "/FitMan/static/js/455.9eeb451c.chunk.js",
+    "index.html": "/FitMan/index.html",
+    "main.6bbcfb43.js.map": "/FitMan/static/js/main.6bbcfb43.js.map",
+    "239.ad40150f.chunk.js.map": "/FitMan/static/js/239.ad40150f.chunk.js.map",
+    "977.6a7f6471.chunk.js.map": "/FitMan/static/js/977.6a7f6471.chunk.js.map",
+    "455.9eeb451c.chunk.js.map": "/FitMan/static/js/455.9eeb451c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6bbcfb43.js"
+  ]
+}
